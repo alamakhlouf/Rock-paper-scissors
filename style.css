@@ -1,0 +1,9 @@
+.image {
+    margin:150px 0px 0 140px ;
+    border: black 1px solid;
+}
+.text {
+    text-align: center;
+    color:blue ;
+    font-weight: 700;
+}
